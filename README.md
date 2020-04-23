@@ -9,3 +9,5 @@
   <li>GOTO Statements / Function Calling</li>
   <li>ECHO Commands</li>
  </ul>
+<h4>Compilation for Windows, Linux, and macOS</h4>
+<code>go build main.go io.go extensions.go engine.go</code>
